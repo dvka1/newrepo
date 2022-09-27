@@ -1,3 +1,8 @@
 int a = 12;
+<<<<<<< HEAD
 if(a>40);
 printf("bad")
+=======
+if(a>30);
+printf("good")
+>>>>>>> 1e2e603f210e29bccabad91ff64a8cf304073152
