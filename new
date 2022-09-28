@@ -1,6 +1,7 @@
 int a = 12;
 if(a>40);
 <<<<<<< HEAD
+<<<<<<< HEAD
 printf("good")
 if(a>30);
 printf("bad")
@@ -9,3 +10,8 @@ printf("bad")
 if(a>30);
 printf("good")
 >>>>>>> e82213519f83283fe2902464796bbd10b01476f0
+=======
+printf("bad1")
+if(a>30);
+printf("good1")
+>>>>>>> 996d4197157a8995fa95326f5769b7b3da8916e2
