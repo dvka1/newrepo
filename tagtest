@@ -53,8 +53,18 @@ check it through dvka1
 chnges applied through hmi server
 >>>>>>> a1c9c418e88644bf7b568181c4530350ec7ca3dc
 
+<<<<<<< HEAD
+checking hmi
+
+
+=======
 chnges applied through dvka1 after checkout 
 
 :q	
+>>>>>>> b947299baea3f440cbbb50caec90578e678a56b0
 
+<<<<<<< HEAD
 change here dea
+=======
+change here manju
+>>>>>>> b7bef65431edba06898ad04040ca1e06519e4005
