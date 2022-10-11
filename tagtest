@@ -29,3 +29,7 @@ hello checking pull in repo
 checking pull in local; repo
 
 checking pull in github repo
+<<<<<<< HEAD
+=======
+hello checking gitraken here
+>>>>>>> 8d17a3815583cdd0da7e15ae16286c1e9cb0489e
