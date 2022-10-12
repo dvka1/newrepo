@@ -1,5 +1,5 @@
 int a = 12;
 if(a>40);
-printf("bad1")
+printf("badchange")
 if(a>30);
-printf("good1")
+printf("goodchange")
